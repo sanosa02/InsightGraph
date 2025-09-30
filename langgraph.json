@@ -1,0 +1,9 @@
+{
+  "graphs": {
+    "app": "src.main:app"
+  },
+  "dependencies": ["requirements.txt"],
+  "build": {
+    "context": "."
+  }
+}
