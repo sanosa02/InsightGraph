@@ -42,7 +42,7 @@ insightgraph/
   - Setup Python virtual environment with recommended version.
   - Create `.env.example` with placeholders for environment variables.
   - Define dependencies in `pyproject.toml` or `requirements.txt`.
-- [X] Define config files: `crawl_allowlist.yaml`, `retrieval.yaml`, `graph.yaml` (limits, thresholds).
+- [ ] Define config files: `crawl_allowlist.yaml`, `retrieval.yaml`, `graph.yaml` (limits, thresholds).
   - Determine config schema for each file.
   - Include comments/examples for user guidance.
   - Validate YAML syntax and loadability.
